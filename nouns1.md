@@ -1,5 +1,11 @@
 Theme: Heavens
 1. avis, avis f: bird
+  a. avem, feminine accusative singular
+  b. aves, feminine accusative plural
+  c. avi, feminine dative singular
+  d. avibus, feminine dative plural
+  e. avis, feminine nominative/genitive singular
+  f. avium, feminine genitive plural
 2. deus, dei m: god
 3. dies, diei m: day
 4. fulmen, fulminis n: lightning
