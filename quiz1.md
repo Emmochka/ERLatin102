@@ -5,8 +5,8 @@ Identify the gender, case, and number of each noun. If there are multiple possib
 1. in coniugium: neuter accusative singular. In marriage.
 1. animo: masculine dative/ablative singular
 1. uirgine: feminine ablative singular
-1. parentes:
-1. ad uxorem:
+1. parentes: masculine nominative/accusative plural
+1. ad uxorem: feminine accusative singular. To the wife.
 
 Part 2: recognizing verbs
 For each of the following verbs,
