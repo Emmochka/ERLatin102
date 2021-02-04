@@ -20,5 +20,18 @@ Theme: Heavens
   (D) diem, masculine accusative singular
   (E) dies, masculine nominative singular
 4. fulmen, fulminis n: lightning
+  (A) fulmen, neuter nominative/accusative singular (magnum fulmen)
+  (B) fulmina, neuter nominative/accusative plural (magna fulmina)
+  (C) fulmine, neuter ablative singular (magno fulmine)
 5. nox, noctis f: night
+  (A) nocte, feminine ablative singular
+  (B) noctem, feminine accusative singular
+  (C) noctes, feminine accusative plural
+  (D) noctu, feminine ablative singular
 6. sol, solis m: sun
+  (A) sol, masculine nominative singular
+  (B) sole, masculine ablative singular
+  (C) solem, masculine accusative singular
+  (D) soli, masculine dative singular
+  (E) solis, masculine genitive singular
+  (F) solum, masculine genitive plural
