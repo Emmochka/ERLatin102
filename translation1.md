@@ -36,7 +36,7 @@ Identify the form abesset, and explain why it is this tense and mood. It is thir
 
 Identify the form uenisset, and explain why it is this tense and mood. It is third person singular pluperfect active subjunctive. This is because him coming to the king is a circumstance (subjunctive) that happened before, as background to, him wanting Deianira as a wife.
 
-Identify the form pollicitus est. What dictionary form would you look under to find this verb? It is third person singular perfect indicative, and since it is a deponent verb it is passive, as always. It is in the dictionary under "polliceor" which is the first person singular present passive indicative.
+Identify the form pollicitus est. What dictionary form would you look under to find this verb? It is third person singular perfect indicative, and since it is a deponent verb it is passive, as always. It is in the dictionary under the first person singular present passive indicative, which is "polliceor."
 
 Identify the form of the noun-adjective phrase tempore certo, and explain why it is in this case. These words are in their ablative singular neuter forms. The neuter is just because tempus is a neuter noun, and singular is because the event is happening at one specific time. It is in the ablative case because it is saying exactly when something happened and not giving an extent of time.
 
