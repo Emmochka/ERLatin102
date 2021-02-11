@@ -13,13 +13,19 @@ cum Hercules *abesset,*
 
 centaurus Eurytion *petit* Deianiram uxorem.
 
-quia pater eius centaurum timebat,
+quia pater eius centaurum *timebat,*
 
-pollicitus est
+*pollicitus est*
 
-se daturum.
+se *daturum.*
 
-Tempore certo, venit centaurus cum fratribus ad nuptias. Hercules interuenit et centaurum interfecit, Deianiram abduxit.
+Tempore certo, *venit* centaurus cum fratribus ad nuptias.
+
+Hercules *interuenit*
+
+et centaurum *interfecit,*
+
+Deianiram *abduxit.*
 
 B. Grammatical questions
 Write a dictionary entry (nominative singular, genitive singular, gender) for Dexamenum, then identify the form Dexamenum.
@@ -31,4 +37,4 @@ Identify the form of the noun-adjective phrase tempore certo, and explain why it
 
 C. Translation
 Please translate the passgae into idiomatic English.
-Hercules, while in his hospitality, came to king Dexamenum and took the virginity of his daughter Deianira, wanting to take her as a wife. When Hercules was away, the centaur Eurytion attacked Deianira the wife. Since her father feared the centaur, he promised he would give her to him.
+Hercules, while in his hospitality, came to king Dexamenum and took the virginity of his daughter Deianira, wanting to take her as a wife. When Hercules was away, the centaur Eurytion attacked Deianira the wife. Since her father feared the centaur, he promised he would give him her. At a certain time, the centaur came with his brothers to the wedding. Hercules went among them and killed the centaur, and he took Deianira away.
