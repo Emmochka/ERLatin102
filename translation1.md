@@ -42,4 +42,4 @@ Identify the form of the noun-adjective phrase tempore certo, and explain why it
 
 C. Translation
 Please translate the passgae into idiomatic English.
-Hercules had come to King Dexamenus in hospitality and taken the virginity of his daughter Deianira, wanting to take her as a wife. When Hercules was away, the centaur Eurytion attacked Deianira the wife. Since her father feared the centaur, he promised he would give him her. At a certain time, the centaur came with his brothers to the wedding. Hercules went among them and killed the centaur, and he took Deianira away.
+Hercules had come in hospitality to King Dexamenus and taken the virginity of his daughter Deianira, wanting to take her as a wife. When Hercules was away, the centaur Eurytion attacked Deianira the wife. Since her father feared the centaur, he promised he would give him her. At a certain time, the centaur came with his brothers to the wedding. Hercules went among them and killed the centaur, and he took Deianira away.
