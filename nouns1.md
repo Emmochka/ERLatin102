@@ -1,6 +1,6 @@
 Theme: Heavens
 1. avis, avis f: bird
-  (A) avem, feminine accusative singular
+> avem, feminine accusative singular
   (B) aves, feminine accusative plural
   (C) avi, feminine dative singular
   (D) avibus, feminine dative/ablative plural
