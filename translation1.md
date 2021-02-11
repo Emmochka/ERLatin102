@@ -5,9 +5,9 @@ Hercules cum in hospitium ad Dexamenum regem *uenisset*
 
 eiusque filiam Deianiram *deuirginasset,*
 
-*volebat*
+> *volebat*
 
-eam uxorem *ducere.*
+>> eam uxorem *ducere.*
 
 cum Hercules *abesset,*
 
