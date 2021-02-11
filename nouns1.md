@@ -26,7 +26,7 @@ Theme: Heavens
 5. nox, noctis f: night
   (A) nocte, feminine ablative singular
   (B) noctem, feminine accusative singular
-  (C) noctes, feminine accusative plural
+  (C) noctes, feminine nominative plural
   (D) noctu, feminine ablative singular
 6. sol, solis m: sun
   (A) sol, masculine nominative singular
