@@ -1,3 +1,6 @@
+**Needs minor revisions**
+**Very nice work!**
+
 Passage to analyze
 (Based on Hyginus, chapter 33.)
 
@@ -7,7 +10,7 @@ Passage to analyze
 
 *volebat*
 
-> eam uxorem *ducere.*
+> eam uxorem *ducere.* ❌
 
 > cum Hercules *abesset,*
 
@@ -25,7 +28,7 @@ Hercules *interuenit*
 
 et centaurum *interfecit,*
 
-> Deianiram *abduxit.*
+> Deianiram *abduxit.* ❌
 
 B. Grammatical questions
 Write a dictionary entry (nominative singular, genitive singular, gender) for Dexamenum, then identify the form Dexamenum. Dexamenus, Dexameni m. Dexamenum is accusative singular.
@@ -42,4 +45,6 @@ Identify the form of the noun-adjective phrase tempore certo, and explain why it
 
 C. Translation
 Please translate the passgae into idiomatic English.
-Hercules had come in hospitality to King Dexamenus and taken the virginity of his daughter Deianira, wanting to take her as a wife. When Hercules was away, the centaur Eurytion attacked Deianira the wife. Since her father feared the centaur, he promised he would give him her. At a certain time, the centaur came with his brothers to the wedding. Hercules went among them and killed the centaur, and he took Deianira away.
+Hercules had come in hospitality to King Dexamenus and taken the virginity of his daughter Deianira, wanting to take her as a wife. ❌ *Where is the idea of the **independent** clause in Latin?  Generally best to make that an indepedent clause in English, too.*
+
+When Hercules was away, the centaur Eurytion attacked Deianira the wife. Since her father feared the centaur, he promised he would give him her. At a certain time, the centaur came with his brothers to the wedding. Hercules went among them and killed the centaur, and he took Deianira away.
