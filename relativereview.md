@@ -10,8 +10,20 @@ Hercules qui postea Deianiram uxorem duxit interfecit Dexamenum Deianirae patrem
 
 > Hercules postea Deianira uxorem duxit. Hercules later married Deianira.
 
-Dexamenus pollicitus est se Deianiram centauro quem timbebat daturum esse.
+Dexamenus pollicitus est se Deianiram centauro quem timbebat daturum esse. Dexamenus promised he would give Deianira to the centaur, whom he feared.
 
-Hercules a quo centaurus interfectus est Deianiram abduxit.
+> Dexamenus pollicitus est se Deianiram centauro daturum esse. Dexamenus promised he would give Deianira to the centaur.
 
-Dexamenus timebat centaurum cui pollicitus est se filiam daturum.
+> Centaurum timbebat. He feared the centaur.
+
+Hercules a quo centaurus interfectus est Deianiram abduxit. Hercules, who had killed the centaur, took Deianira away.
+
+> Hercules Deianiram abduxit. Hercules took Deianira away.
+
+> Ab Hercule centaurus interfectus est. The centaur had been killed by Hercules.
+
+Dexamenus timebat centaurum cui pollicitus est se filiam daturum. Dexamenus feared the centaur, to whom he had promised he would give his daughter.
+
+> Dexamenus 
+
+>
