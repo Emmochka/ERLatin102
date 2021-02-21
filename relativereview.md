@@ -22,8 +22,8 @@ Hercules a quo centaurus interfectus est Deianiram abduxit. Hercules, who had ki
 
 > Ab Hercule centaurus interfectus est. The centaur had been killed by Hercules.
 
-Dexamenus timebat centaurum cui pollicitus est se filiam daturum. Dexamenus feared the centaur, to whom he had promised he would give his daughter.
+Dexamenus timebat centaurum cui pollicitus est se filiam daturum. Dexamenus feared the centaur, to whom he promised he would give his daughter.
 
-> Dexamenus 
+> Dexamenus timebat centaurum. Dexamenus feared the centaur.
 
->
+> Centauro pollicitus est se filiam daturum. He promised he would give his daughter to the centaur.
