@@ -62,4 +62,4 @@ English relative clauses
 
 Latin relative clauses
 
-For each sentence in the previous section, translate the relative pronoun into Latin, identify the antecedent of the pronoun, and its gender and number, identify the case of the Latin pronoun, and explain why it is in that case
+For each sentence in the previous section, translate the relative pronoun into Latin, identify the antecedent of the pronoun, and its gender and number, identify the case of the Latin pronoun, and explain why it is in that case.
