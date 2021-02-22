@@ -1,14 +1,23 @@
 Verb synopses
 
+> Loco, locare and proficio, proficere
 
-third plural present indicative active
-third plural present subjunctive active
-third plural imperfect indicative active
-present infinitive active
-third plural imperfect subjunctive active
-third plural perfect indicative active
-perfect active infinitive
-third plural pluperfect subjunctive active
+>> third plural present indicative active: Locant, proficiunt
+
+>> third plural present subjunctive active: Locent, proficiant
+
+>> third plural imperfect indicative active: Locabant, proficiebant
+
+>> present infinitive active:
+
+>> third plural imperfect subjunctive active:
+
+>> third plural perfect indicative active:
+
+>> perfect active infinitive:
+
+>> third plural pluperfect subjunctive active:
+
 
 Using the verb polliceor, complete the following synopsis, and translate indicative forms as complete sentences.
 
