@@ -1,5 +1,7 @@
 Verb synopses
 
+Check one verb of the first or second conjugation *other than8 amo or habeo, and one verb of the third or third-io conjugation other than capio or duco. For each verb, complete the following synopsis, and translate indicative forms as complete sentences.
+
 > Loco, locare and proficio, proficere
 
 >> third plural present indicative active: Locant, proficiunt
@@ -18,17 +20,24 @@ Verb synopses
 
 >> third plural pluperfect subjunctive active:
 
+> Using the verb polliceor, complete the following synopsis, and translate indicative forms as complete sentences.
 
-Using the verb polliceor, complete the following synopsis, and translate indicative forms as complete sentences.
+>> third plural present indicative passive
 
-third plural present indicative passive
-third plural present subjunctive passive
-third plural imperfect indicative passive
-present infinitive passive
-third plural imperfect subjunctive passive
-third plural perfect indicative passive
-perfect active passive
-third plural pluperfect subjunctive passive
+>> third plural present subjunctive passive
+
+>> third plural imperfect indicative passive
+
+>> present infinitive passive
+
+>> third plural imperfect subjunctive passive
+
+>> third plural perfect indicative passive
+
+>> perfect active passive
+
+>> third plural pluperfect subjunctive passive
+
 
 Do a synopsis here… one 1st or 2nd, one 3rd or 3rdio
 
