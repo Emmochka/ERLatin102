@@ -4,17 +4,17 @@ Check one verb of the first or second conjugation *other than amo or habeo, and 
 
 > Loco, locare and proficio, proficere
 
->> third plural present indicative active: Locant, proficiunt
+>> third plural present indicative active: Locant, proficiunt. They are arranging; they are advancing.
 
 >> third plural present subjunctive active: Locent, proficiant
 
->> third plural imperfect indicative active: Locabant, proficiebant
+>> third plural imperfect indicative active: Locabant, proficiebant. They were arranging; they were making progress.
 
 >> present infinitive active: Locare, proficere
 
 >> third plural imperfect subjunctive active: Locarent, proficerent
 
->> third plural perfect indicative active: Locaverunt, profecerunt
+>> third plural perfect indicative active: Locaverunt, profecerunt. They placed; they obtained.
 
 >> perfect active infinitive: Locavisse, profecisse
 
@@ -22,21 +22,21 @@ Check one verb of the first or second conjugation *other than amo or habeo, and 
 
 Using the verb polliceor, complete the following synopsis, and translate indicative forms as complete sentences.
 
-> third plural present indicative passive
+> third plural present indicative passive: Pollicentur. They promise.
 
-> third plural present subjunctive passive
+> third plural present subjunctive passive: Polliceantur.
 
-> third plural imperfect indicative passive
+> third plural imperfect indicative passive: Pollicebantur. They continued to promise.
 
-> present infinitive passive
+> present infinitive passive: Polliceri.
 
-> third plural imperfect subjunctive passive
+> third plural imperfect subjunctive passive: Pollicerentur.
 
-> third plural perfect indicative passive
+> third plural perfect indicative passive: Polliciti sunt. They made a promise.
 
-> perfect active passive
+> perfect active passive: ??
 
-> third plural pluperfect subjunctive passive
+> third plural pluperfect subjunctive passive: Polliciti essent.
 
 English relative clauses
 
