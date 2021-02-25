@@ -40,25 +40,25 @@ Using the verb polliceor, complete the following synopsis, and translate indicat
 
 English relative clauses
 
->1 The brothers were violent Centaurs. Eurytion came to the wedding with his brothers. The brothers, with whom Eurytion came to the wedding, were violent centaurs.
+1. The brothers were violent Centaurs. Eurytion came to the wedding with his brothers. The brothers, with whom Eurytion came to the wedding, were violent centaurs.
 
->2 Dexamenus was afraid of Eurytion. Deanira was promised in marriage to Eurytion. Dexamenus was afraid of Eurytion, to whom Deianira was promised in marriage.
+2. Dexamenus was afraid of Eurytion. Deanira was promised in marriage to Eurytion. Dexamenus was afraid of Eurytion, to whom Deianira was promised in marriage.
 
->3 Eurytion expected to marry Deianira. Eurytion’s brothers were centaurs. Eurytion, whose brothers were centaurs, expected to marry Deianira.
+3. Eurytion expected to marry Deianira. Eurytion’s brothers were centaurs. Eurytion, whose brothers were centaurs, expected to marry Deianira.
 
-> Nessus tried to rape Deianira. Hercules killed Nessus. Nessus, whom Hercules killed, tried to rape Deianira.
+4. Nessus tried to rape Deianira. Hercules killed Nessus. Nessus, whom Hercules killed, tried to rape Deianira.
 
-> Nessus gave Deianira a vial of blood. Hercules was poisoned by the blood. Nessus gave Deianira a vial of blood, by which Hercules was poisoned.
+5. Nessus gave Deianira a vial of blood. Hercules was poisoned by the blood. Nessus gave Deianira a vial of blood, by which Hercules was poisoned.
 
-> In Egypt, Hercules killed the priest Busiris. Busiris regularly sacrificed foreigners. In Egypt, Hercules killed the priest Busiris, who regularly sacrificed foreigners.
+6. In Egypt, Hercules killed the priest Busiris. Busiris regularly sacrificed foreigners. In Egypt, Hercules killed the priest Busiris, who regularly sacrificed foreigners.
 
-> Prometheus’ heart was devoured by an eagle. Hercules shot the eagle dead with his arrows. Prometheus' heart was devoured by an eagle, which Hercules shot dead with arrows.
+7. Prometheus’ heart was devoured by an eagle. Hercules shot the eagle dead with his arrows. Prometheus' heart was devoured by an eagle, which Hercules shot dead with arrows.
 
-> Lycus tried to kill Megara and her sons Therimachus and Ophites. Lycus was killed by Hercules. Lycus, who was killed by Hercules, tried to kill Megara and her sons Therimachus and Ophites.
+8. Lycus tried to kill Megara and her sons Therimachus and Ophites. Lycus was killed by Hercules. Lycus, who was killed by Hercules, tried to kill Megara and her sons Therimachus and Ophites.
 
-> Hercules stole a tripod from the temple at Delphi. Apollo refused to give Hercules an oracle. Hercules, to whom Apollo refused to give an oracle, stole a tripod from the temple at Delphi.
+9. Hercules stole a tripod from the temple at Delphi. Apollo refused to give Hercules an oracle. Hercules, to whom Apollo refused to give an oracle, stole a tripod from the temple at Delphi.
 
-> Hercules killed his own wife Megara. Juno drove threw Hercules into a fit of madness. Hercules, whom Juno threw into a fit of madness, killed his own wife Megara.
+10. Hercules killed his own wife Megara. Juno drove threw Hercules into a fit of madness. Hercules, whom Juno threw into a fit of madness, killed his own wife Megara.
 
 Latin relative clauses
 
