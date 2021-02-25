@@ -40,11 +40,11 @@ Using the verb polliceor, complete the following synopsis, and translate indicat
 
 English relative clauses
 
-> The brothers were violent Centaurs. Eurytion came to the wedding with his brothers. The brothers, with whom Eurytion came to the wedding, were violent centaurs.
+>1 The brothers were violent Centaurs. Eurytion came to the wedding with his brothers. The brothers, with whom Eurytion came to the wedding, were violent centaurs.
 
-> Dexamenus was afraid of Eurytion. Deanira was promised in marriage to Eurytion. Dexamenus was afraid of Eurytion, to whom Deianira was promised in marriage.
+>2 Dexamenus was afraid of Eurytion. Deanira was promised in marriage to Eurytion. Dexamenus was afraid of Eurytion, to whom Deianira was promised in marriage.
 
-> Eurytion expected to marry Deianira. Eurytion’s brothers were centaurs. Eurytion, whose brothers were centaurs, expected to marry Deianira.
+>3 Eurytion expected to marry Deianira. Eurytion’s brothers were centaurs. Eurytion, whose brothers were centaurs, expected to marry Deianira.
 
 > Nessus tried to rape Deianira. Hercules killed Nessus. Nessus, whom Hercules killed, tried to rape Deianira.
 
