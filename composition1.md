@@ -1,4 +1,9 @@
-Cum Hercules ad Oechaliam venisset, petivit Iolen in conjugium. Quia pater eius, Eurytus, noluisset, Hercules Oechaliam cepit. Hercules dixit eum patrem eius interfecturus esse. Iole patiebatur patres eius interfectus esse. Cum Hercules omnes interfecisset, Iolen ad Deianiram misit.
+**Needs minor revisions**
+**Excellent first draft!  Minor revisions only.**
+
+Cum Hercules ad❌  Oechaliam venisset, petivit Iolen in conjugium. Quia🤔 pater eius, Eurytus, noluisset❌, Hercules Oechaliam cepit. Hercules dixit eum❌ patrem eius interfecturus❌ esse. Iole patiebatur patres eius❌ interfectus❌ esse. Cum Hercules omnes interfecisset, Iolen ad Deianiram misit.
+
+
 
 Your composition should use all the vocabulary items listed below at least once.
 Your first sentence should use a temporal clause to express that when Hercules came to Oechalia, he asked to marry Iole.
