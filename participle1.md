@@ -13,4 +13,7 @@ Id Pelias videns, iussit eum pellem arietis petere ab rege Aeeta hoste.
 
 Phrixus Marti sacrauerat pellem arietis inauratam.
 
-Oedipus audivit Polybum mortuum esse, et credens eum patrem suum esse moleste ferre coepit.
+Oedipus audivit
+Polybum mortuum esse,
+et credens eum patrem suum esse
+moleste ferre coepit.
