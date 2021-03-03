@@ -33,9 +33,11 @@ Oedipus audivit
 
 > Polybum mortuum esse,
 
-et credens
+et
 
-> eum patrem suum esse
+> credens
+
+>> eum patrem suum esse
 
 moleste ferre coepit.
 
