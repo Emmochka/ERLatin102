@@ -5,7 +5,9 @@ Each sentence includes a participle (present active or perfect passive). Identif
 Suggest an interpretation to guide your translation of the participial expression as a dependent clause in English.
 You should be able to explain what clues you looked at to decide on a possible translation.
 
-> Dexamenus centaurum timens
+Dexamenus
+
+> centaurum timens
 
 pollicitus est
 
