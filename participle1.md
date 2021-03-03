@@ -13,7 +13,7 @@ pollicitus est
 
 > se filiam suam daturum esse.
 
-Timens agrees with centaurum. It means "because he feared the centaur." This is because the fear is an important cause to him promising the give him his daughter.
+Timens agrees with Dexamenus. It means "because he feared the centaur." This is because the fear is an important cause to him promising the give him his daughter.
 
 > Id Pelias videns,
 
