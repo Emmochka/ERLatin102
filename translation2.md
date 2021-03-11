@@ -69,14 +69,26 @@ Italicize the verb of each unit by surrounding it with asterisks.
 
 > Feminine accusative singular perfect passive. urn:cite2:hmt:ls.markdown:n48489
 
-4. Identify the form of sagittis. Why does Hyginus use this case? Ablative plural, and it is ablative because it is the ablative of instrument.
+4. Identify the form of sagittis. Why does Hyginus use this case?
 
-5. Identify the form of moriens. Participle, masculine nominative sngular present active.
+> Ablative plural, and it is ablative because it is the ablative of instrument.
+
+5. Identify the form of moriens.
+
+> Participle, masculine nominative sngular present active.
 
 6. Identify felle. Why does Hyginus use this case?
 
+> Ablative, and it is because the arrows had been dipped *in* bile.
+
 7. Identify the form of tinctas.
+
+> Participle, feminine plural nominative perfect passive.
 
 8. Identify the form of exceptum.
 
+> Participle, neuter singular nominative perfect passive. 
+
 9. William Faulkner’s novel *As I lay dying* takes its title from an English translation of a single word in Odyssey 11.424. In Greek, where participles function very differently from English but similarly to Latin, that word is a present active participle. Suggest one or more possible translations of Faulkner’s title into Latin.
+
+> Mortuus, moriens.
