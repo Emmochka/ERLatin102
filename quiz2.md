@@ -1,3 +1,5 @@
+**Needs minor revisions**
+
 Verb synopses
 
 Check one verb of the first or second conjugation *other than amo or habeo, and one verb of the third or third-io conjugation other than capio or duco. For each verb, complete the following synopsis, and translate indicative forms as complete sentences.
@@ -34,7 +36,7 @@ Using the verb polliceor, complete the following synopsis, and translate indicat
 
 > third plural perfect indicative passive: Polliciti sunt. They made a promise.
 
-> perfect active passive: ??
+> perfect infinitive passive: ??❌
 
 > third plural pluperfect subjunctive passive: Polliciti essent.
 
@@ -72,7 +74,7 @@ For each sentence in the previous section, translate the relative pronoun into L
 
 4. Quem. Antecedent: Nessus. Masculine singular. Accusative becasue he is the direct object of the verb "killed."
 
-5. Qua. Antecedent: a vial of blood. Feminine singular. Ablative because it is the instrument by which an action is done.
+5. Qua.❌ Antecedent: a vial of blood. Feminine singular. Ablative because it is the instrument by which an action is done.
 
 6. Qui. Antecedent: Busiris. Masculine singular. Nominative because he is the subject who sacrifices the foreigners.
 
@@ -80,6 +82,6 @@ For each sentence in the previous section, translate the relative pronoun into L
 
 8. Quem. Antecedent: Lycus. Masculine singular. Accusative becasue it is the direct object being killed.
 
-9. Qui. Antecedent: Hercules. Masculine singular. Dative becasue it is the indirect object.
+9. Qui.❌ Antecedent: Hercules. Masculine singular. Dative becasue it is the indirect object.
 
 10. Quem. Antecedent: Hercules. Masculine singular. Accusative because it is the direct object.
