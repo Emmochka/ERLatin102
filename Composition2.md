@@ -1,10 +1,10 @@
-Cum Deianira, filia Oenei et uxor Herculis, videt puellam pulchram et parvam Iolen adductus esse, coepit machinari ad non ipsam privandam marito.
+Cum Deianira, filia Oenei et uxor Herculis, videt puellam pulchram et parvam Iolen adductus esse, coepit machinari ne ipsam privarentur marito eius. Familum eius ad Herculem ferendum vestem tinctus sanguino Nessi, qui illa credebat philtrum esse. Hercules vestem inudit et statim flammavit. Ille servum, quem Deianira missus erat ut vestem revocavisset, in mare iacit. Dicitur Herculem ascendit ad immortalem, sed Deianira se necavit quod haec res.
 
 Instructions
 
 > Your composition should use at least two participles and two relative clauses.
 
-> -Your composition should include at least one expression of purpose using ad + a noun or pronoun modified by a gerundive.-
+> Your composition should include at least one expression of purpose using ad + a noun or pronoun modified by a gerundive.
 
 > Your first sentence should use a negative purpose clause to say that when Deianira, the daughter of Oeneus and the wife of Hercules saw that the beautiful young girl Iole had been brought (to her house), she began to devise a plot in order not to lose her husband (or “be deprived of” her husband).
 
