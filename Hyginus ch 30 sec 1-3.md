@@ -16,7 +16,19 @@ necauit,
 
 > cuius pellem pro tegumento habuit.
 
-Hydram Lernaeam Typhonis filiam cum capitibus nouem ad fontem Lernaeum interfecit. Haec tantam uim ueneni habuit ut afflatu homines necaret, et si quis eam dormientem transierat, uestigia eius afflabat et maiori cruciatu moriebatur. Hanc Minerua monstrante interfecit et exinterauit et eius felle sagittas suas tinxit; itaque quicquid postea sagittis fixerat, mortem non effugiebat, unde postea et ipse periit in Phrygia.
+Hydram Lernaeam Typhonis filiam
+
+> cum capitibus nouem ad fontem Lernaeum
+
+interfecit.
+
+Haec tantam uim ueneni habuit
+
+> ut afflatu homines necaret,
+
+et si quis eam dormientem transierat,
+
+uestigia eius afflabat et maiori cruciatu moriebatur. Hanc Minerua monstrante interfecit et exinterauit et eius felle sagittas suas tinxit; itaque quicquid postea sagittis fixerat, mortem non effugiebat, unde postea et ipse periit in Phrygia.
 
 **Vocab**
 
@@ -32,4 +44,6 @@ Amphistomo: an entrance at both sides?
 
 Pellis, pellis: hide
 
-Tegumento: covering
+Tegumento: covering?
+
+Capis, capidis: a jug or vessel?
