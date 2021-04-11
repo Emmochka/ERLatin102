@@ -26,9 +26,27 @@ Haec tantam uim ueneni habuit
 
 > ut afflatu homines necaret,
 
-et si quis eam dormientem transierat,
+> et si quis eam dormientem transierat,
 
-uestigia eius afflabat et maiori cruciatu moriebatur. Hanc Minerua monstrante interfecit et exinterauit et eius felle sagittas suas tinxit; itaque quicquid postea sagittis fixerat, mortem non effugiebat, unde postea et ipse periit in Phrygia.
+uestigia eius afflabat
+
+> et maiori cruciatu moriebatur.
+
+Hanc
+
+> Minerua monstrante
+ 
+interfecit
+
+et exinterauit
+
+et eius felle sagittas suas tinxit;
+
+itaque quicquid postea sagittis fixerat,
+
+> mortem non effugiebat, unde postea
+ 
+et ipse periit in Phrygia.
 
 **Vocab**
 
@@ -47,3 +65,13 @@ Pellis, pellis: hide
 Tegumento: covering?
 
 Capis, capidis: a jug or vessel?
+
+Vestigium, vestigii: footstep (probably foot here)
+
+Quicquid: relative, each and every one.
+
+Itaque: thus
+
+Figo, -ere: to fix, to imprint
+
+Effugio, -ere: to escape
