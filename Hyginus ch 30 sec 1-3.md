@@ -8,9 +8,7 @@ dracones duos duabus manibus necauit,
 
 Leonem Nemeum,
 
-> quem Luna nutrierat
-
->> in antro amphistomo atrotum,
+> quem Luna nutrierat in antro amphistomo atrotum,
 
 necauit,
 
