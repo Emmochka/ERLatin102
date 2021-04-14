@@ -1,3 +1,6 @@
+**Full Credit**
+
+
 **Sentences 1**
 
 Deianira, uxor Herculis, flumen magnum,
@@ -79,7 +82,8 @@ Italicize the verb of each unit by surrounding it with asterisks.
 
 6. Identify felle. Why does Hyginus use this case?
 
-> Ablative, and it is because the arrows had been dipped *in* bile.
+> Ablative, and it is because the arrows had been dipped *in* bile.  ✔️ (So *means* or *instrument*.)
+
 
 7. Identify the form of tinctas.
 
@@ -91,4 +95,4 @@ Italicize the verb of each unit by surrounding it with asterisks.
 
 9. William Faulkner’s novel *As I lay dying* takes its title from an English translation of a single word in Odyssey 11.424. In Greek, where participles function very differently from English but similarly to Latin, that word is a present active participle. Suggest one or more possible translations of Faulkner’s title into Latin.
 
-> Mortuus, moriens.
+> Mortuus, moriens.🤔 **The second option I definitely understand; but the perfect tense of the first option seems to me hard to reconcile with the idea that "I was in the process of dying..."
