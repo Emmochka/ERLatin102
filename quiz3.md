@@ -76,12 +76,12 @@ a third-declension noun:
 pars, partis (f.) “part”
 and the adjective magnus/a/um, “great, large,” with irregular comparative maior, and superlative maximus.
 
-The Hydra killed passers by with a great blowing of his poisonous breath.
-The Hydra killed passers by with a greater blowing of his poisonous breath.
-The Hydra killed passers by with the greatest blowing of his poisonous breath.
-The victims died in great torment.
-The victims died in greater torment.
-The victims died in the greatest torment.
-Hercules cleaned a great part of the stables.
-Hercules cleaned a greater part of the stables.
-Hercules cleaned the greatest part of the stables.
+The Hydra killed passers by *with a great blowing* of his poisonous breath.
+The Hydra killed passers by *with a greater blowing* of his poisonous breath.
+The Hydra killed passers by *with the greatest blowing* of his poisonous breath.
+The victims died *in great torment.*
+The victims died *in greater torment.*
+The victims died *in the greatest torment.*
+Hercules cleaned *a great part* of the stables.
+Hercules cleaned *a greater part* of the stables.
+Hercules cleaned *the greatest part* of the stables.
