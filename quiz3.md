@@ -8,11 +8,15 @@ for a three-ending adjective, masculine, feminine and neuter nominative singular
 
 uno die
 > Unus, una, unum.
-> 
+> Dies, diei. m.
 
 totum stercus
+> Totus, tota, totum.
+> Stercus, stercoris. n.
 
 ceruum ferocem
+> Cervus, cervi. m.
+> Ferox, ferocis.
 
 tantam vim
 
