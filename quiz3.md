@@ -19,6 +19,8 @@ ceruum ferocem
 > Ferox, ferocis.
 
 tantam vim
+> Tantus, tanta, tantum.
+> Vis, viris. f.
 
 sagittas suas
 
@@ -54,6 +56,7 @@ ex Creta
 Thraciae rex
 cum Abdero
 Eurystheo regi
+
 Compose a dictionary form for the proper adjectives in the following phrases:
 
 Leonem Nemeum
