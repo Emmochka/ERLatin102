@@ -1,12 +1,14 @@
 Part 1. For each word in the following phrases, list the forms the dictionary entry gives you for the word:
 
-for a noun, nominative singular, genitive singular and gender
+For a noun, nominative singular, genitive singular and gender;
 for an adjective, two or three forms:
-for a one-ending adjective, masculine nominative singular and masculine genitive singular
-for a two-ending adjective, masculine/feminine nominative singular, neuter nominative singular
-for a three-ending adjective, masculine, feminine and neuter nominative singular
+for a one-ending adjective, masculine nominative singular and masculine genitive singular,
+for a two-ending adjective, masculine/feminine nominative singular, neuter nominative singular,
+for a three-ending adjective, masculine, feminine and neuter nominative singular.
 
 uno die
+> Unus, una, unum.
+> 
 
 totum stercus
 
