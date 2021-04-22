@@ -23,14 +23,24 @@ tantam vim
 > Vis, viris. f.
 
 sagittas suas
+> Sagitta, sagittae. f.
+> Suus, sua, suum.
 
 cornibus aureis
+> Cornu, cornus. n.
+> Aureus, aurea, aureum.
 
 carne humana
+> Caro, carnis. f.
+> Humanus, humama, humanum.
 
 draconem immanem
+> Draco, draconis. m.
+> Immanis, immane.
 
 mala aurea
+> Malus, mali. f.
+> Aureus, aurea, aureum.
 
 Part 2. For the following verbs in various forms, list the four principal parts you would find in a dictionary entry for this verb.
 If a part is missing (e.g., for a deponent verb, there will be no perfect active form for a third prinicipal part), list a dash - for the missing part.
