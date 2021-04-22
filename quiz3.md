@@ -130,27 +130,28 @@ pars, partis (f.) “part”
 and the adjective magnus/a/um, “great, large,” with irregular comparative maior, and superlative maximus.
 
 The Hydra killed passers by *with a great blowing* of his poisonous breath.
-
+> Cum afflatu magno.
 
 The Hydra killed passers by *with a greater blowing* of his poisonous breath.
-
+> Cum afflatu maiori.
 
 The Hydra killed passers by *with the greatest blowing* of his poisonous breath.
-
+> Cum afflatu maximo.
 
 The victims died *in great torment.*
-
+> In cruciatu magno.
 
 The victims died *in greater torment.*
-
+> In cruciatu maiori.
 
 The victims died *in the greatest torment.*
-
+> In cruciatu maximo.
 
 Hercules cleaned *a great part* of the stables.
-
+> Partem magnum.
 
 Hercules cleaned *a greater part* of the stables.
-
+> Partem maiorem.
 
 Hercules cleaned *the greatest part* of the stables.
+> Partem maximum.
