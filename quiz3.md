@@ -81,38 +81,76 @@ attulit
 Part 3. Dictionaries do not include large numbers of proper names and adjectives. Compose a dictionary for the proper nouns in the following phrases:
 
 Luna (nominative)
+> Luna, Lunae. f.
+
 Minerva (nominative)
+> Minerva, Minervae. f.
+
 in Phrygia
+> Phrygia, Phrygiae. f.
+
 ex Creta
+> Creta, Cretae. f.
+
 Thraciae rex
+> Thrace, Thraciae. f.
+
 cum Abdero
+> Abderus, Abderi. m.
+
 Eurystheo regi
+> Eurystheus, Eurysthei. m.
 
 Compose a dictionary form for the proper adjectives in the following phrases:
 
 Leonem Nemeum
+> Nemeus, Nemea, Nemeum.
+
 Hydram Lernaeam
+> Lernaeus, Lernaea, Lernaeum.
+
 aprum Erymanthium
+> Erymanthius, Erymanthia, Erymanthium.
+
 aves Stymphalides
+> Symphalis, Symphalidis.
+
 Hippolyten Amazonam (NB: Hippolyten is a Greek name in a feminine accusative singular form, like Iolen in our earlier assignment.)
+> Amazonus, Amazona, Amazonum.
 
 Part 4. Translate the highlighted phrases in the following English sentences into Latin. Use these vocabulary items:
 
 two fourth-declension nouns:
-
 afflatus, afflatūs, (m.), “breathing, breath, blowing”
 cruciatus, cruciatūs, (m.), “torture, torment”
-a third-declension noun:
 
+a third-declension noun:
 pars, partis (f.) “part”
+
 and the adjective magnus/a/um, “great, large,” with irregular comparative maior, and superlative maximus.
 
 The Hydra killed passers by *with a great blowing* of his poisonous breath.
+
+
 The Hydra killed passers by *with a greater blowing* of his poisonous breath.
+
+
 The Hydra killed passers by *with the greatest blowing* of his poisonous breath.
+
+
 The victims died *in great torment.*
+
+
 The victims died *in greater torment.*
+
+
 The victims died *in the greatest torment.*
+
+
 Hercules cleaned *a great part* of the stables.
+
+
 Hercules cleaned *a greater part* of the stables.
+
+
 Hercules cleaned *the greatest part* of the stables.
