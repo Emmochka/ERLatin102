@@ -70,13 +70,13 @@ vescebantur
 > Vescor, vesci, --, vescatus.
 
 detraxit
->
+> Detro, detrare, detraxi, detractus.
 
 solitus erat
->
+> Soleo, solere, --, solitus est.
 
 attulit
->
+> Adfero, adferre, attuli, adlatum.
 
 Part 3. Dictionaries do not include large numbers of proper names and adjectives. Compose a dictionary for the proper nouns in the following phrases:
 
