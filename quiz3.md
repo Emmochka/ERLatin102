@@ -46,16 +46,37 @@ Part 2. For the following verbs in various forms, list the four principal parts 
 If a part is missing (e.g., for a deponent verb, there will be no perfect active form for a third prinicipal part), list a dash - for the missing part.
 
 transierat
+> Transeo, transire, transii, transitum.
+
 afflabat
+> Afflo, afflare, afflavi, afflatus.
+
 moriebatur
+> Morior, mori, --, mortuus est.
+
 exinteravit
+> Exentero, exentare, exentavi, exentatum.
+
 effugiebat
+> Effugio, effugere, effugi, effugitum.
+
 adduxit
+> Adduco, adducere, addxit, adductus.
+
 iaculabantur
+> Iaculor, iaculari, --, iaculaum.
+
 vescebantur
+> Vescor, vesci, --, vescatus.
+
 detraxit
+>
+
 solitus erat
+>
+
 attulit
+>
 
 Part 3. Dictionaries do not include large numbers of proper names and adjectives. Compose a dictionary for the proper nouns in the following phrases:
 
