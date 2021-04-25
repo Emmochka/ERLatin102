@@ -14,17 +14,23 @@ totum stercus *abluit*.
 
 Taurum
 
-> cum quo Pasiphae concubuit
+> cum quo Pasiphae *concubuit*
 
-ex Creta insula Mycenis vivum adduxit.
+ex Creta insula Mycenis vivum *adduxit.*
 
 **3**
 
-Diomedem Thraciae regem et equos quattuor eius, qui carne humana vescebantur, cum Abdero famulo interfecit;
+Diomedem Thraciae regem et equos quattuor eius,
+
+> qui carne humana *vescebantur,*
+
+cum Abdero famulo *interfecit;*
 
 equorum autem nomina Podargus Lampon Xanthus Dinus.
 
 **Questions**
+
+Place each verbal idea (clause, indirect statement, participial expression) on a separate line, indented to show its level of subordination. Italicize the verb of each unit by surrounding it with asterisks.
 
 In the phrase, Iove adiutore, what case is Iove? What kind of construction is this phrase? Iove is ablative because this is the ablative absolute.
 
@@ -32,10 +38,10 @@ What case is stercus, and why is it in that case? It is the accusative case, bec
 
 Identify the form of the adjective maiorem (gender, case, number, degree). It is feminine accusative singular comparative.
 
-Explain the construction of the verbal unit flumine admisso.
+Explain the construction of the verbal unit flumine admisso. It is ablative absolute. This is used because it is meant to convey that the river was sent in and that this fact is linked to the purifying of the stables, but it allows the sentence to mean both that the manure was washed away *because* of the river going in, and that it happened *once* the river was sent in.
 
-What are the gender, number, case, and antecedent of qui?
+What are the gender, number, case, and antecedent of qui? It is masculine plural nominative, and it refers to the king's horses.
 
-What Latin verb form has to be understood in the clause that runs from equorum to Dinus?
+What Latin verb form has to be understood in the clause that runs from equorum to Dinus? Erant.
 
 Choose two choices of syntax, word order, or diction that Hyginus makes in this passage that complement or enhance the meaning of the passage’s content. Discuss briefly s in 3-4 sentences. Italicize Latin words when citing them.
