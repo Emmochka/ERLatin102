@@ -45,3 +45,7 @@ What are the gender, number, case, and antecedent of qui? It is masculine plural
 What Latin verb form has to be understood in the clause that runs from equorum to Dinus? Erant.
 
 Choose two choices of syntax, word order, or diction that Hyginus makes in this passage that complement or enhance the meaning of the passage’s content. Discuss briefly s in 3-4 sentences. Italicize Latin words when citing them.
+
+In the first part, the sentence before the semicolon is written in a complex way, being broken into three parts and having a lot of modifying words in the first part. However, after the semicolon, the sentence is very simple. Each of its constituent parts are very short and convey simple ideas. I think this helps the audience understand the ease with which the stables were cleaned by the river.
+
+In the third part, the lack of a verb in the sentence after the semicolon contributes to the aside manner of the observation. The names of the horses aren't very important to the story, but the writer wants to include them anyway. By noting the names in a verbless sentence, the brief nature of the sentence makes it clear that this is just a minor note.
