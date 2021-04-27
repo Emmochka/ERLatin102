@@ -1,3 +1,5 @@
+**Needs revisions**
+
 Part 1. For each word in the following phrases, list the forms the dictionary entry gives you for the word:
 
 For a noun, nominative singular, genitive singular and gender;
@@ -20,7 +22,7 @@ ceruum ferocem
 
 tantam vim
 > Tantus, tanta, tantum.
-> Vis, viris. f.
+> Vis, viris. f.❌
 
 sagittas suas
 > Sagitta, sagittae. f.
@@ -55,7 +57,7 @@ moriebatur
 > Morior, mori, --, mortuus est.
 
 exinteravit
-> Exentero, exentare, exentavi, exentatum.
+> Exentero, exentare, exentavi, exentatum.❌ **Check spelling of stem.**
 
 effugiebat
 > Effugio, effugere, effugi, effugitum.
@@ -64,13 +66,13 @@ adduxit
 > Adduco, adducere, addxit, adductus.
 
 iaculabantur
-> Iaculor, iaculari, --, iaculaum.
+> Iaculor, iaculari, --, iaculatum.
 
 vescebantur
 > Vescor, vesci, --, vescatus.
 
 detraxit
-> Detro, detrare, detraxi, detractus.
+> Detro, detrare, detraxi, detractus. ❌
 
 solitus erat
 > Soleo, solere, --, solitus est.
@@ -130,7 +132,7 @@ pars, partis (f.) “part”
 and the adjective magnus/a/um, “great, large,” with irregular comparative maior, and superlative maximus.
 
 The Hydra killed passers by *with a great blowing* of his poisonous breath.
-> Cum afflatu magno.
+> Cum afflatu magno. ❌ **No preposition in expressing instrument.**
 
 The Hydra killed passers by *with a greater blowing* of his poisonous breath.
 > Cum afflatu maiori.
@@ -147,11 +149,11 @@ The victims died *in greater torment.*
 The victims died *in the greatest torment.*
 > In cruciatu maximo.
 
-Hercules cleaned *a great part* of the stables.
+Hercules cleaned *a great part* of the stables.❌ **Check agreement of gender.**
 > Partem magnum.
 
 Hercules cleaned *a greater part* of the stables.
 > Partem maiorem.
 
 Hercules cleaned *the greatest part* of the stables.
-> Partem maximum.
+> Partem maximum.❌
