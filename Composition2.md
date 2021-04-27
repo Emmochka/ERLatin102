@@ -1,4 +1,6 @@
-Cum Deianira, filia Oenei et uxor Herculis, videt puellam pulchram et parvam Iolen adductus esse, coepit machinari ne ipsam privarentur marito eius. Familum eius ad Herculem ferendum vestem tinctus sanguino Nessi, qui illa credebat philtrum esse. Hercules vestem inudit et statim flammavit. Ille servum, quem Deianira missus erat ut vestem revocavisset, in mare iacit. Dicitur Herculem ascendit ad immortalem, sed Deianira se necavit quod haec res.
+**Needs revisions**
+
+Cum Deianira, filia Oenei et uxor Herculis, videt❌ **We're in secondary (past-time) sequence because of "coepit" below.** puellam pulchram et parvam Iolen adductus❌ esse, coepit machinari ne ipsam❌ privarentur marito eius❌. Familum eius❌ ad Herculem❌ ferendum vestem tinctus❌ sanguino❌ Nessi, qui❌ illa credebat philtrum esse. Hercules vestem inudit❌ et statim flammavit. Ille servum, quem Deianira missus erat ut vestem revocavisset, in mare iacit. Dicitur Herculem ascendit❌ ad immortalem❌, sed Deianira se necavit quod❌ haec res.
 
 Instructions
 
