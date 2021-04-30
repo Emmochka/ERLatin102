@@ -1,3 +1,11 @@
+He cleaned the sables of King Augeas of manure in one day, Iove helping with the greater part; when the river was sent in it washed away all the manure.
+He led the bull with whom Pasiphae had slept alive out of the island Crete of Mycene.
+He killed Thracian Diomedes and his four hourses, who ate human flesh, with Abdera serving; the names of the horses, moreover, were Podargus, Lampon, Xanthus, and Dinus.
+
+Augeae regis stercus bobile uno die purgavit, maiorem partem Iove adiutore; flumine admisso totum stercus abluit.
+Taurum cum quo Pasiphae concubuit ex Creta insula Mycenis vivum adduxit.
+Diomedem Thraciae regem et equos quattuor eius, qui carne humana vescebantur, cum Abdero famulo interfecit; equorum autem nomina Podargus Lampon Xanthus Dinus.
+
 **1**
 
 Augeae regis stercus bobile uno die *purgavit*,
