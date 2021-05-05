@@ -1,4 +1,4 @@
-He cleaned the sables of King Augeas of manure in one day, Iove helping with the greater part; when the river was sent in it washed away all the manure.
+He cleaned the sables of King Augeas of manure in one day, Jupiter helping with the greater part; when the river was sent in it washed away all the manure.
 He led the bull with whom Pasiphae had slept alive out of the island Crete of Mycene.
 He killed Thracian Diomedes and his four hourses, who ate human flesh, with Abdera the servant; the names of the horses, moreover, were Podargus, Lampon, Xanthus, and Dinus.
 
