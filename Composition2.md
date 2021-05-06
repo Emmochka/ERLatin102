@@ -1,4 +1,4 @@
-**Needs revisions**
+**Full credit**
 
 Cum Deianira, filia Oenei et uxor Herculis, vidisset puellam pulchram et parvam Iolen adducta esse, coepit machinari ne ipsa privaretur marito suo. Famulum suum misit ad vestem  Herculi ferendam tinctam sanguine Nessi, quem illa credebat philtrum esse. Hercules vestem induit et statim flammavit. Ille servum, quem Deianira missus erat ut vestem revocavisset, in mare iecit. Dicitur Herculem ascendisse ad immortalitatem, sed Deianira se necavit ob hanc rem.
 
