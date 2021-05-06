@@ -22,7 +22,7 @@ ceruum ferocem
 
 tantam vim
 > Tantus, tanta, tantum.
-> Vis, viris. f.❌
+> Vis, vis. f.
 
 sagittas suas
 > Sagitta, sagittae. f.
@@ -57,7 +57,7 @@ moriebatur
 > Morior, mori, --, mortuus est.
 
 exinteravit
-> Exentero, exentare, exentavi, exentatum.❌ **Check spelling of stem.**
+> Exintero, exinterare, exinteravi, exinteratus.
 
 effugiebat
 > Effugio, effugere, effugi, effugitum.
@@ -72,7 +72,7 @@ vescebantur
 > Vescor, vesci, --, vescatus.
 
 detraxit
-> Detro, detrare, detraxi, detractus. ❌
+> Detraho, detrahere, detraxi, detractus.
 
 solitus erat
 > Soleo, solere, --, solitus est.
@@ -132,28 +132,28 @@ pars, partis (f.) “part”
 and the adjective magnus/a/um, “great, large,” with irregular comparative maior, and superlative maximus.
 
 The Hydra killed passers by *with a great blowing* of his poisonous breath.
-> Cum afflatu magno. ❌ **No preposition in expressing instrument.**
+> Afflatu magno.
 
 The Hydra killed passers by *with a greater blowing* of his poisonous breath.
-> Cum afflatu maiori.
+> Afflatu maiore.
 
 The Hydra killed passers by *with the greatest blowing* of his poisonous breath.
-> Cum afflatu maximo.
+> Afflatu maximo.
 
 The victims died *in great torment.*
 > In cruciatu magno.
 
 The victims died *in greater torment.*
-> In cruciatu maiori.
+> In cruciatu maiore.
 
 The victims died *in the greatest torment.*
 > In cruciatu maximo.
 
-Hercules cleaned *a great part* of the stables.❌ **Check agreement of gender.**
-> Partem magnum.
+Hercules cleaned *a great part* of the stables.
+> Partem magnam.
 
 Hercules cleaned *a greater part* of the stables.
 > Partem maiorem.
 
 Hercules cleaned *the greatest part* of the stables.
-> Partem maximum.❌
+> Partem maximam.
