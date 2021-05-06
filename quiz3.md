@@ -1,4 +1,4 @@
-**Needs revisions**
+**Full credit**
 
 Part 1. For each word in the following phrases, list the forms the dictionary entry gives you for the word:
 
